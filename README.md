@@ -1,4 +1,4 @@
-UAV image dataset for the manuscript "Fast and Efficient Method for Large-scale Aerial Image Stitching"
+UAV image dataset for the manuscript "Fast and Efficient Method for Large-scale Aerial Image Stitching". All the images were captured by DJI FC220 camera with resolution 3000x4000
 
 Download: https://bit.ly/3xxcuTR
 
