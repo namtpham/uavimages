@@ -1,4 +1,5 @@
 UAV image dataset for the manuscript "Fast and Efficient Method for Large-scale Aerial Image Stitching"
+
 Download: https://bit.ly/3xxcuTR
 
 |    Scene     | No. of images  | Altitude (m)  |Pre-set overlapping ratio %|
